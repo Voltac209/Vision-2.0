@@ -38,6 +38,12 @@ pip install -e vision-arena
 python vision.py
 ```
 
+## Demo Video
+
+<a href="https://youtu.be/8eVKpRbgdVM">
+  <img src="https://img.youtube.com/vi/8eVKpRbgdVM/maxresdefault.jpg" alt="Vision 2.0 demo video" width="720">
+</a>
+
 ## How It Works
 
 1. The environment loads a randomized arena in PyBullet.
